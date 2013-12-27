@@ -1,3 +1,4 @@
 name: ChrisNeilSmith --- Ride Blog
 markdown: redcarpet
 pygments: true
+source: chrisneilsmith/chrisneilsmith.github.io
