@@ -3,11 +3,11 @@ layout: post
 title: A taste of some hillwork
 ---
 
-*Route:* Cemetary - Terwilliger - Downtown - Tabor x 3 - Home
+**Route:** Cemetary - Terwilliger - Downtown - Tabor x 3 - Home
 
-*Weather:* Cold, dry, and heavy overcast
+**Weather:** Cold, dry, and heavy overcast
 
-*Ride Partners:* none
+**Ride Partners:** none
 
 No [team](http://www.hammervelo.com) ride for me today, as Nancy had a breakfast with friends who are in town. Ultimately, I think this worked out in my favor, because I need to really spend some time developing my own base miles at my own pace. Today gave me the opportunity to do just that as I rode quite a few smaller hills around the central Portland area.
 
@@ -15,4 +15,4 @@ I forgot how much thinking I can get done on a solo ride. One of the thoughts th
 
 All said, the legs felt pretty good. If I can keep up the consistancy, I may be able to round into form for the spring races.
 
-*Total distance:* 24.5 miles
+**Total distance:** 24.5 miles
