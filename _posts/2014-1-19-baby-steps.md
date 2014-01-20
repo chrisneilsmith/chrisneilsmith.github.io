@@ -13,7 +13,7 @@ I got out for  a short ride yesterday, but before that I have not been on my bik
 
 On my ride yesterday and today, I found myself thinking a lot about Irene Bond's article [Wheels of Truth](http://redkiteprayer.com/2014/01/wheels-of-truth/) on the Red Kite Prayer website. Towards the end of her piece, Bond writes:
 
-{% blockquote %}
+{% blockquote Irene Bond %}
 But then I realized something. The days when I took the break, did not ride, those were also some of the days where I felt the most whole, the most collected. The most myself during a time when nothing seemed real. 
 
 The bike hadn’t lied to me. The bike kept telling the truth. I needed to NOT ride. I needed to find my comfort elsewhere, reengage with people and activities that had been put on the back burner, connect with all of the things that made me who I was when not wearing copious amounts of lycra. 
