@@ -14,11 +14,11 @@ I got out for  a short ride yesterday, but before that I have not been on my bik
 On my ride yesterday and today, I found myself thinking a lot about Irene Bond's article [Wheels of Truth](http://redkiteprayer.com/2014/01/wheels-of-truth/) on the Red Kite Prayer website. Towards the end of her piece, Bond writes:
 
 {% blockquote Irene Bond %}
-But then I realized something. The days when I took the break, did not ride, those were also some of the days where I felt the most whole, the most collected. The most myself during a time when nothing seemed real. 
+>But then I realized something. The days when I took the break, did not ride, those were also some of the days where I felt the most whole, the most collected. The most myself during a time when nothing seemed real. 
 
-The bike hadn’t lied to me. The bike kept telling the truth. I needed to NOT ride. I needed to find my comfort elsewhere, reengage with people and activities that had been put on the back burner, connect with all of the things that made me who I was when not wearing copious amounts of lycra. 
+>The bike hadn’t lied to me. The bike kept telling the truth. I needed to NOT ride. I needed to find my comfort elsewhere, reengage with people and activities that had been put on the back burner, connect with all of the things that made me who I was when not wearing copious amounts of lycra. 
 
-The bike was always honest. It was I that had been lying to myself. 
+>The bike was always honest. It was I that had been lying to myself. 
 {% endblockquote %}
 
 The truth, for me, is that I have used the bike to not think about what's in front of me, and I've used it to help me process what I'm going through. I have spent a lot of time of the bike lately. Probably, too much. Too many days I have felt just as Ms. Bond describes in her article, "I woke up with the intention of riding, looked at the bike, and didn’t." Time off the bike has helped me figure out what I've needed to figure out. However, the problem with being off the bike for any amount of time is that it makes getting back on it a humbling experience. Even though it is January, I know that my fitness is nowhere near where it should be at any point in time.
